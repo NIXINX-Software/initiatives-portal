@@ -16,7 +16,7 @@
 html { scroll-behavior: smooth; }
 body {
   margin: 0;
-  background: var(--paper);
+  background: #f5f8fc; /* Previous: var(--paper) = #fbfaf7 */
   color: var(--ink);
   font-family: Arial, Helvetica, sans-serif;
 }
